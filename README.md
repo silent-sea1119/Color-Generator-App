@@ -4,9 +4,9 @@
 
 ## 😎 Introduction:
 
-The Color Generator App is Build in `React JS`  and it's library [`Values.js`](https://noeldelgado.github.io/values.js/). In this Project the Color with it's Shades are generated from `Hex Color code` which you can **COPY** & **PASTE** anywhere & **when you click any Color it will give a `Sound` 🎶 as the Hex Code is Copied!**
+The Color Generator App is Build in `React JS`  and it's library [`Values.js`](https://noeldelgado.github.io/values.js/). In this Project the Color with it's Shades are generated from `Hex Color code` which you can **COPY** & **PASTE** anywhere & **when you click any Color it will give a `Sound 🎶` as the Hex Code is Copied!**
 
-# LIVE DEMO 🐱‍🏍
+# [LIVE DEMO 🐱‍🏍](https://color-generator-app-shjz.vercel.app/)
 
 ## Screenshot:
 
