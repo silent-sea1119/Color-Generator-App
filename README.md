@@ -1,4 +1,4 @@
-# Color Generator App
+# 🎨 Color Generator App
 
 **Color Shades Generator from Hex Code & 100+ Colors Handpicked for you to COPY & PASTE**
 
