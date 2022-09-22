@@ -10,7 +10,7 @@ The Color Generator App is Build in `React JS`  and it's library [`Values.js`](h
 
 ## Screenshot:
 
-![ss](https://user-images.githubusercontent.com/52501040/191808116-4960858a-8764-43f9-956a-d8b1018934bd.jpg)
+<a href="https://color-generator-app-shjz.vercel.app"><img src="https://user-images.githubusercontent.com/52501040/191808116-4960858a-8764-43f9-956a-d8b1018934bd.jpg" alt="ss" /></a>
 
 ## 😎 Quick Start:
 
