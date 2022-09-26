@@ -21,6 +21,9 @@ or
 yarn dev
 ```
 OR Clone my GitHub Repo
+```
+https://github.com/HamzaZaidiX/Color-Generator-App/
+```
 
 ## Licence:
 MIT LICENCE Read `Licence` document for more details =>
