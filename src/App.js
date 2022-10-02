@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <section className="container">
-        <a href="/"><h2>🎨 Color Generator</h2></a>
+       <h2>🎨 Color Generator</h2>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
